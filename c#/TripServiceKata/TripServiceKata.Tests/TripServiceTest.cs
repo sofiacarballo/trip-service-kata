@@ -2,5 +2,6 @@
 {
     public class TripServiceTest
     {
+        [Test, Ignore]
     }
 }
